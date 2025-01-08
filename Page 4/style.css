@@ -3,7 +3,7 @@ body {
     height: 100vh;
     align-items: center;  /* column ke center mei karta hai */
     /*justify-content: center;  row ke center mei karta hai */
-    background-image: url('./assets/background.jpg');
+    background-image: url('assets/images/background.jpg');
     background-size: 1000px;
     background-position: center center;
     overflow-x: hidden;
@@ -22,7 +22,7 @@ body {
     border: 2px solid black;
     position: absolute; /* ek ke upar ek kar deta hai */
     cursor:grab;
-    background-image: url('./assets/paper.jpg');
+    background-image: url('assets/images/paper.jpg');
     background-size: 100px;
     padding: 20px 100px;
     transform: rotateZ(-5deg);
